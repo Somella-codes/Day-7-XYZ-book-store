@@ -9,8 +9,8 @@ Today was all about structure. Built the XYZ Bookstore checkout page from scratc
 
 No CSS yet. Just laying the foundation. If HTML is the skeleton, today I was the surgeon.
 
-## Screenshot
-![XYZ Bookstore Day 7](Screenshot_20260616_171541_Samsung Internet.jpg)
+## Screenshot 
+![XYZ Bookstore Day 7](Screenshot_20260616_171541_Samsung%20Internet.jpg)
 
 ## The Bug That Gaslighted me😂
 FCC test failed because of a newline inside my `<p>` tag. 
